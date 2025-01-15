@@ -454,7 +454,7 @@ id = ""
     copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
 
     # Format dates with Go's time formatting
-    date_format = "2006-01-02"
+    date_format = "2021-08-01T21:29:20+02:00"
 
     dropdown_mouse_over = false
 
